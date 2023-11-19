@@ -5,6 +5,7 @@ import QtQml 2.0
 import QtSensors 5.0
 
 Window  {
+//    djgfbdijfbdinvodijoijn
     id:window
     width: 640
     height: 480
